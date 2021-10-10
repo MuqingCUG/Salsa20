@@ -2,5 +2,4 @@
 #忽略gitignore文件
 .gitignore
 #忽略指定的文件夹
-/build/
-
+build
