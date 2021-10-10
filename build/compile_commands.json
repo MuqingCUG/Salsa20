@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mac/Documents/codefield/projects/Salsa20/build",
+  "command": "/usr/bin/clang++  -I/Users/mac/Documents/codefield/projects/Salsa20/./include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/mac/Documents/codefield/projects/Salsa20/src/main.cpp",
+  "file": "/Users/mac/Documents/codefield/projects/Salsa20/src/main.cpp"
+}
+]
